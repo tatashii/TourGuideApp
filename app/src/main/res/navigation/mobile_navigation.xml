@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_places">
+
+    <fragment
+        android:id="@+id/nav_places"
+        android:name="com.example.myapplication.ui.places.PlacesFragment"
+        android:label="@string/Places"
+        tools:layout="@layout/fragment_places">
+
+        <action
+            android:id="@+id/action_PlacesFragment_to_PlacesSecondFragment"
+            app:destination="@id/nav_places_second" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_places_second"
+        android:name="com.example.myapplication.ui.places.PlacesSecondFragment"
+        android:label="@string/Places"
+        tools:layout="@layout/fragment_places_second">
+        <action
+            android:id="@+id/action_PlacesSecondFragment_to_PlacesFragment"
+            app:destination="@id/nav_places" />
+
+        <argument
+            android:name="@string/myArg"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_dishes"
+        android:name="com.example.myapplication.ui.dishes.DishesFragment"
+        android:label="@string/Dishes"
+        tools:layout="@layout/fragment_dishes" />
+
+    <fragment
+        android:id="@+id/nav_footballteam"
+        android:name="com.example.myapplication.ui.footballteam.FootballTeam"
+        android:label="@string/FootballTeam"
+        tools:layout="@layout/fragment_footballteam" />
+    <fragment
+        android:id="@+id/nav_mountains"
+        android:name="com.example.myapplication.ui.mountains.MountainsFragment"
+        android:label="@string/Mountains"
+        tools:layout="@layout/fragment_mountains" />
+</navigation>

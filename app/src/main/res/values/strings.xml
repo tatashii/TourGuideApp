@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="item_1">Catedral de sevilla</string>
+    <string name="item_1_1">Av. de la Constitución, s/n, 41004 Sevilla</string>
+    <string name="item_2">Palacio de la alhambra</string>
+    <string name="item_2_2">Calle Real de la Alhambra, s/n, 18009 Granada</string>
+    <string name="item_3">Joel Park</string>
+    <string name="item_3_3">08024 Barcelonaا</string>
+    <string name="item_4">Palacio Real de madrid</string>
+    <string name="item_4_4">Calle de Bailén, s/n, 28071 Madrid</string>
+    <string name="item_5">Paraíso corporal</string>
+    <string name="item_5_5">18009 Granada</string>
+    <string name="item_6">Catedral - Mezquita de Córdoba</string>
+    <string name="item_6_6">Calle Cardenal Herrero, 1, 14003 Córdoba</string>
+    <string name="Places">Places</string>
+    <string name="myArg">myArg</string>
+    <string name="Dishes">Dishes</string>
+    <string name="FootballTeam">FootballTeam</string>
+    <string name="Mountains">Mountains</string>
+
+    <string name="item_7">Paella</string>
+    <string name="item_7_7">Arroz al azafrán con frijoles y carne </string>
+
+    <string name="item_8"> Pollo al Ajillo</string>
+    <string name="item_8_8"> Pollo al ajo cocinado con romero y tomillo</string>
+
+    <string name="item_9">Gazpacho </string>
+    <string name="item_9_9"> Tomates rojos maduros, ajo, pepino, pimiento, pan y aceite de oliva.</string>
+
+    <string name="item_10"> Jamón Ibérico</string>
+    <string name="item_10_10"> Cerdo al vino tinto</string>
+
+    <string name="item_11"> Patatas Bravas</string>
+    <string name="item_11_11">Patatas fritas doradas, de una manera que combina crujiente y suavidad. </string>
+
+    <string name="item_12"> Chorizo</string>
+    <string name="item_12_12"> Las lonchas de salchicha son muy populares en España.</string>
+
+    <string name="item_13">Real Madrid</string>
+    <string name="item_13_13">Zinedine Zidane</string>
+    <string name="item_14">Barcelona</string>
+    <string name="item_14_14">Kiki Sittin</string>
+    <string name="item_15">Atletico Madrid</string>
+    <string name="item_15_15">Diego Simeone </string>
+    <string name="item_16"> Sevilla</string>
+    <string name="item_16_16"> Julien Lopetegi</string>
+    <string name="item_17">las Palmas </string>
+    <string name="item_17_17"> Baby Mail</string>
+    <string name="item_18">Valencia </string>
+    <string name="item_18_18"> Albert Celadis</string>
+
+    <string name="item_19">Gorbea</string>
+    <string name="item_19_19">Biscay / Alava, Spain</string>
+    <string name="item_20">Torre Santa</string>
+    <string name="item_20_20">Bandera de León</string>
+    <string name="item_21">Pico Yordas </string>
+    <string name="item_21_21"> dentro del Parque Regional Montaña de Riaño y Mampodre, en la Provincia de León.</string>
+    <string name="item_22"> Ted</string>
+    <string name="item_22_22"> Isla de Tenerife en las Islas Canarias de España</string>
+    <string name="item_23">Pico Almanzor</string>
+    <string name="item_23_23">Condado de bla</string>
+    <string name="item_24">Jabalcuz</string>
+    <string name="item_24_24">Al sur de la ciudad de Jian, región de Andalucía</string>
+
+
+</resources>
